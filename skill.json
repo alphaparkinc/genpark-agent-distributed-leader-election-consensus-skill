@@ -1,0 +1,8 @@
+{
+  "name": "genpark-agent-distributed-leader-election-consensus-skill",
+  "version": "1.0.1",
+  "description": "Lease-based leader election protocol establishing a single primary coordinator among concurrent autonomous agents.",
+  "category": "Consensus",
+  "entrypoint": "mcp_server.py",
+  "dependencies": []
+}
